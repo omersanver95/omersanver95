@@ -3,8 +3,6 @@
 <p align="left">
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <!-- Highcharts -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/highcharts.svg" width="40" height="40"/>
   <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
   <!-- Next.js -->
@@ -29,8 +27,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
   <!-- Bootstrap -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <!-- Tailwind CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
   <!-- .NET -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
   <!-- C# -->
